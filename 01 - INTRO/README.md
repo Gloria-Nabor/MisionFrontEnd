@@ -15,6 +15,9 @@ En este módulo veremos las siguientes cosas.
 2. **Prácticas de Introducción**
 
 - [Prácticas](./practicas//README.md)
+Caso 1: Abogabot 
+    
+
 
 Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
 
