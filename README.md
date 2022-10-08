@@ -46,7 +46,7 @@ El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo co
    - Propiedades de etiquetas / Properties
    - Práctica de HTML
      -El código de ejemplo está en el siguiente link
-      LINK DE CÓDIGO [LINK DE CÓDIGO](../programas/1.-etiquetasBasicas.html)
+      [LINK DE CÓDIGO](https://github.com/Gloria-Nabor/MisionFrontEnd/blob/main/02%20-%20HTML/programas/1.-etiquetasBasicas.html) 
 
 3. [CSS](./03%20-%20CSS/README.md)
 
